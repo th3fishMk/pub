@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,SubCategory,UnitPrice
+PROD-001,Laptop Standard,Technology,Laptop,999.99
+PROD-002,Smartphone Standard,Technology,Smartphone,699.99
+PROD-003,Monitor Standard,Technology,Monitor,249.99
+PROD-004,Keyboard Standard,Technology,Keyboard,49.99
+PROD-005,Mouse Standard,Technology,Mouse,29.99
+PROD-006,Binder Standard,Office Supplies,Binder,4.99
+PROD-007,Paper Ream Standard,Office Supplies,Paper Ream,8.99
+PROD-008,Pens Pack Standard,Office Supplies,Pens Pack,5.49
+PROD-009,Desk Organizer Standard,Office Supplies,Desk Organizer,14.99
+PROD-010,Stapler Standard,Office Supplies,Stapler,12.0
+PROD-011,Office Chair Standard,Furniture,Office Chair,149.99
+PROD-012,Desk Standard,Furniture,Desk,299.99
+PROD-013,Bookshelf Standard,Furniture,Bookshelf,119.99
+PROD-014,Filing Cabinet Standard,Furniture,Filing Cabinet,89.99
+PROD-015,Desk Lamp Standard,Furniture,Desk Lamp,34.99

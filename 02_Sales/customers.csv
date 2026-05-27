@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Segment,Country
+CUST-001,James Martin,Corporate,United States
+CUST-002,Charles Hernandez,Home Office,Canada
+CUST-003,Anna Miller,Consumer,United States
+CUST-004,Daniel Hernandez,Consumer,United States
+CUST-005,William Brown,Home Office,Canada
+CUST-006,Anna Williams,Consumer,United States
+CUST-007,Jane Lopez,Corporate,United States
+CUST-008,Sarah Johnson,Home Office,United States
+CUST-009,John Lopez,Corporate,United States
+CUST-010,Ashley Taylor,Corporate,Australia
+CUST-011,Lisa Thomas,Consumer,United States
+CUST-012,Charles Anderson,Corporate,United States
+CUST-013,Daniel Lopez,Corporate,United States
+CUST-014,Melissa Williams,Consumer,Canada
+CUST-015,David Jackson,Consumer,United States
+CUST-016,James Rodriguez,Home Office,United States
+CUST-017,James Moore,Corporate,Germany
+CUST-018,Emily Wilson,Consumer,Australia
+CUST-019,Rachel Rodriguez,Home Office,Australia
+CUST-020,Jane Martin,Home Office,United States
+CUST-021,Charles Miller,Corporate,United States
+CUST-022,Ashley Davis,Home Office,United States
+CUST-023,Charles Williams,Consumer,United States
+CUST-024,Megan Taylor,Consumer,United States
+CUST-025,Emily Moore,Corporate,Australia
+CUST-026,Anna Brown,Home Office,United States
+CUST-027,Jane Garcia,Home Office,Germany
+CUST-028,Lisa Brown,Consumer,United States
+CUST-029,Rachel Lopez,Home Office,Australia
+CUST-030,Jane Martinez,Home Office,United States
+CUST-031,Emily Wilson,Home Office,United States
+CUST-032,Amanda Anderson,Corporate,Canada
+CUST-033,Anna Wilson,Corporate,United States
+CUST-034,Anna Thomas,Corporate,United States
+CUST-035,Joseph Moore,Consumer,Germany
+CUST-036,Charles Gonzalez,Home Office,United Kingdom
+CUST-037,Robert Anderson,Home Office,United States
+CUST-038,Joseph Smith,Consumer,United States
+CUST-039,James Rodriguez,Consumer,United States
+CUST-040,John Lopez,Consumer,United Kingdom
+CUST-041,Anna Hernandez,Consumer,United States
+CUST-042,Daniel Taylor,Home Office,United States
+CUST-043,Anna Williams,Consumer,United States
+CUST-044,Michael Smith,Consumer,United States
+CUST-045,David Martinez,Consumer,Canada
+CUST-046,James Rodriguez,Consumer,United States
+CUST-047,James Rodriguez,Consumer,Germany
+CUST-048,Anna Lopez,Corporate,United States
+CUST-049,Jane Smith,Corporate,United States
+CUST-050,Amanda Jones,Consumer,United States
+CUST-051,Michael Lopez,Corporate,United States
+CUST-052,Anna Williams,Corporate,Germany
+CUST-053,John Williams,Corporate,Canada
+CUST-054,David Anderson,Consumer,United States
+CUST-055,Megan Williams,Corporate,Canada
+CUST-056,John Jones,Home Office,United States
+CUST-057,Megan Miller,Consumer,United Kingdom
+CUST-058,Robert Anderson,Home Office,United States
+CUST-059,Charles Martinez,Consumer,United States
+CUST-060,Joseph Jackson,Consumer,United States
+CUST-061,James Taylor,Corporate,United States
+CUST-062,Melissa Brown,Corporate,United States
+CUST-063,David Miller,Home Office,United States
+CUST-064,Joseph Anderson,Consumer,United States
+CUST-065,William Brown,Consumer,United States
+CUST-066,Joseph Miller,Corporate,Germany
+CUST-067,Daniel Johnson,Corporate,United States
+CUST-068,Lisa Gonzalez,Consumer,United States
+CUST-069,Sarah Lopez,Home Office,United Kingdom
+CUST-070,Ashley Martin,Consumer,Australia
+CUST-071,William Miller,Consumer,United States
+CUST-072,John Smith,Home Office,United States
+CUST-073,Melissa Gonzalez,Corporate,Canada
+CUST-074,Robert Williams,Home Office,United States
+CUST-075,James Garcia,Consumer,Germany
+CUST-076,Anna Rodriguez,Corporate,Australia
+CUST-077,David Smith,Corporate,United States
+CUST-078,Daniel Martinez,Home Office,United States
+CUST-079,Ashley Anderson,Consumer,Germany
+CUST-080,Robert Martin,Consumer,United States
+CUST-081,Thomas Taylor,Consumer,United States
+CUST-082,Melissa Lopez,Consumer,Canada
+CUST-083,James Johnson,Consumer,Canada
+CUST-084,Michael Taylor,Consumer,Germany
+CUST-085,David Taylor,Consumer,Germany
+CUST-086,Thomas Taylor,Home Office,Australia
+CUST-087,Jane Johnson,Home Office,Canada
+CUST-088,David Smith,Consumer,Australia
+CUST-089,John Jackson,Consumer,Canada
+CUST-090,Jane Lopez,Corporate,United States
+CUST-091,Sarah Brown,Consumer,United States
+CUST-092,William Taylor,Consumer,Australia
+CUST-093,Sarah Jones,Consumer,Australia
+CUST-094,Melissa Johnson,Consumer,Canada
+CUST-095,Sarah Hernandez,Home Office,Australia
+CUST-096,Amanda Thomas,Consumer,Canada
+CUST-097,John Rodriguez,Corporate,United States
+CUST-098,Sarah Thomas,Corporate,United States
+CUST-099,Michael Martin,Consumer,United States
+CUST-100,Emily Jackson,Consumer,United States
